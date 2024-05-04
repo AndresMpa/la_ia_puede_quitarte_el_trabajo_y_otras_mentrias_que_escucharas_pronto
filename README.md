@@ -1,5 +1,7 @@
-<div>
+<div align="center">
+
   # La IA puede quitarte el trabajo y otras mentiras que escucharas pronto
+
 </div>
 
 ### Preguntas más relevantes:
