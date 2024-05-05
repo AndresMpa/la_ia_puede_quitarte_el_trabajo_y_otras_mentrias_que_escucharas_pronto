@@ -8,7 +8,7 @@
 - ¿Qué es realmente la "I" "A"?
 - ¿Qué tipos de IA existen?
 - ¿Como funciona una IA?
-- ¿Cuando se?
+- ¿Cuando se usa?
 - ¿Para donde va el mundo de las IA?
 
 Extras: 
