@@ -13,7 +13,7 @@
 
 Extras: 
 
-https://arxiv.org/abs/2303.10130
+https://arxiv.org/abs/2303.10130 (El paper en si es este: https://arxiv.org/pdf/2303.10130)
 
 https://youtu.be/IvUU8joBb1Q?feature=shared
 
