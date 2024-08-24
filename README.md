@@ -13,6 +13,8 @@
 
 Extras: 
 
+https://arxiv.org/abs/2303.10130
+
 https://youtu.be/IvUU8joBb1Q?feature=shared
 
 https://es.wikipedia.org/wiki/Deep_Blue_(computadora)
